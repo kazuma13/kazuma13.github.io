@@ -42,11 +42,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research centers on understanding **why viruses cause disease**. I am particularly interested in human rhinovirus (HRV), one of the most common human pathogens yet considered to cause only mild illness. By studying how and why HRV rarely leads to severe disease, I aim to uncover fundamental principles of viral pathogenesis — essentially asking, *what keeps most infections mild?*
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        To address this question, I am developing recombinant reporter viruses and leveraging *in vivo* models including mice and organoids. These tools will enable us to dissect the molecular mechanisms underlying viral replication and pathogenicity at an unprecedented resolution.
 
-        Please reach out to collaborate 😃
+        Looking ahead, I aim to apply these tools to analyze circulating strains in collaboration with public health laboratories, and ultimately to contribute to the discovery and development of anti-rhinovirus therapeutics. I am also broadly interested in enterovirus RNA biology, mutational dynamics, and the evolutionary forces shaping viral pathogenesis.
     design:
       columns: '1'
   - block: collection
