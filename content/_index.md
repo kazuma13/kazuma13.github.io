@@ -47,6 +47,9 @@ sections:
         To address this question, I am developing recombinant reporter viruses and leveraging *in vivo* models including mice and organoids. These tools will enable us to dissect the molecular mechanisms underlying viral replication and pathogenicity at an unprecedented resolution.
 
         Looking ahead, I aim to apply these tools to analyze circulating strains in collaboration with public health laboratories, and ultimately to contribute to the discovery and development of anti-rhinovirus therapeutics. I am also broadly interested in enterovirus RNA biology, mutational dynamics, and the evolutionary forces shaping viral pathogenesis.
+
+        I have extensive experience in *in vivo* virology, including virus inoculation via multiple routes, precision dissection of tissues such as the sciatic nerve, and quantitative analysis of viral dynamics across organs.
+
     design:
       columns: '1'
   - block: collection

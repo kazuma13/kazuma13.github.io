@@ -85,6 +85,8 @@ skills:
         level: 5
       - label: Molecular Virology
         level: 5
+      - label: In Vivo Models & Tissue Dissection
+        level: 5
       - label: Phylogenetic Analysis
         level: 4
       - label: Bioinformatics
@@ -94,6 +96,8 @@ skills:
       - label: Cell Culture & Virus Isolation
         level: 5
       - label: RT-qPCR / Sequencing
+        level: 5
+      - label: Animal Experimentation & Welfare
         level: 5
       - label: Python / R
         level: 3
