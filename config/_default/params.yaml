@@ -15,13 +15,13 @@ hugoblox:
     # Site name - shown in navbar, footer, copyright, and browser title by default
     name: "Kazuma Okada"
     # Legal entity for copyright notices (defaults to name if not set)
-    organization: "The University of Osaka"
+    organization: "University of California, San Francisco"
     # Schema.org type for structured data
     type: person                        # person | organization | local_business
     # Short tagline displayed on your site
     tagline: ""
     # Site meta description for search engines and social sharing
-    description: "Kazuma Okada - Virologist, CiDER, The University of Osaka"
+    description: "Kazuma Okada - Virologist and Postdoctoral Scholar in the Raul Andino Lab at UCSF"
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "LoreLabs_"              # Twitter/X handle for Twitter Cards (without @)

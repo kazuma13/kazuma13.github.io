@@ -14,21 +14,21 @@ postnominals:
   - PhD
 status:
   icon: "🦠"
-role: SA Assistant Professor
+role: Postdoctoral Scholar
 bio: |
-  Kazuma Okada is an Assistant Professor at the Center for Infectious Disease
-  Education and Research (CiDER), Osaka University. His research focuses on
+  Kazuma Okada is a Postdoctoral Scholar in the Raul Andino Lab at the
+  University of California, San Francisco (UCSF). His research focuses on
   viral pathogenesis and RNA biology, developing tools to investigate the
   mechanisms of viral pathogenesis and replication.
   Outside the lab, he is an avid marathon runner (PB: 2:49:47) and trail runner.
 
 affiliations:
-  - name: Center for Infectious Disease Education and Research (CiDER), Osaka University
-    url: https://www.cider.osaka-u.ac.jp/
+  - name: Raul Andino Lab, University of California, San Francisco
+    url: https://andino.ucsf.edu/
 
 links:
   - icon: at-symbol
-    url: mailto:kfokada@biken.osaka-u.ac.jp
+    url: mailto:Kazuma.Okada@ucsf.edu
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/kazuma13
@@ -58,9 +58,13 @@ education:
     end: 2013-03-31
 
 experience:
+  - role: Postdoctoral Scholar
+    org: Raul Andino Lab, University of California, San Francisco
+    start: 2026-09-01
   - role: SA Assistant Professor
     org: Center for Infectious Disease Education and Research (CiDER), Osaka University
     start: 2023-04-01
+    end: 2026-08-31
     summary: |
       Research on human rhinovirus pathogenesis, development of recombinant reporter viruses,
       and investigation of non-respiratory tract symptoms caused by rhinovirus infection.
