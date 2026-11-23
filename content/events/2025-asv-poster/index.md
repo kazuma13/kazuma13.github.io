@@ -3,7 +3,7 @@ title: "Construction of a recombinant human rhinovirus expressing a red fluoresc
 date: "2025-01-01T00:00:00Z"
 event_name: "American Society for Virology 2025 Annual Meeting"
 location: "Montreal, Canada"
-summary: "Poster presentation at ASV 2025 on plasmid-based reverse genetics for HRV reporter virus construction."
+summary: "Poster presentation selected for a flash talk at ASV 2025 on plasmid-based reverse genetics for HRV reporter virus construction."
 event_start: "2025-07-01T00:00:00Z"
 event_end: "2025-07-01T00:00:00Z"
 authors:
@@ -11,6 +11,7 @@ authors:
 tags:
   - Human Rhinovirus
   - Reverse Genetics
+  - Flash Talk
   - Poster
 featured: true
 ---

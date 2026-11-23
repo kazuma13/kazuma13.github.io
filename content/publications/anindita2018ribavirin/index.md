@@ -11,9 +11,13 @@ authors:
 - "Satoshi Shuto"
 - "Satoko Otsuguro"
 - "Satoshi Ichikawa"
+- "Akira Matsuda"
+- "Katsumi Maenaka"
+- "Yasuko Orba"
+- "Hirofumi Sawa"
 date: "2018-01-01T00:00:00Z"
 publication_types: ["article-journal"]
-publication: "*Antiviral research*, 154, 1–9"
+publication: "*Antiviral Research*, 154, 1–9"
 abstract: ""
 tags:
 - Rabies Virus

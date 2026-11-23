@@ -11,6 +11,8 @@ authors:
 - "Kasumi Kasahara"
 - "Toshihide Nihongi"
 - "Shoji Sakurai"
+- "Hiroshi Tsunemitsu"
+- "Makoto Sugiyama"
 date: "2015-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "*Journal of General Virology*, 96(9), 2708–2713"

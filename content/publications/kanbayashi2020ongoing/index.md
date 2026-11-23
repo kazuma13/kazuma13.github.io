@@ -11,6 +11,11 @@ authors:
 - me
 - "Ryo Ikemori"
 - "Takahiro Yumisashi"
+- "Akira Yamamoto"
+- "Hideki Yoshida"
+- "Takanori Hirayama"
+- "Kazuyoshi Ikuta"
+- "Kazushi Motomura"
 date: "2020-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "*Western Pacific Surveillance and Response Journal: WPSAR*, 11(2), 48"

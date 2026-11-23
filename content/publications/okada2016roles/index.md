@@ -13,7 +13,7 @@ authors:
 - "Makoto Sugiyama"
 date: "2016-01-01T00:00:00Z"
 publication_types: ["article-journal"]
-publication: "*Journal of virology*, 90(18), 8226–8237"
+publication: "*Journal of Virology*, 90(18), 8226–8237"
 abstract: ""
 tags:
 - Rabies Virus

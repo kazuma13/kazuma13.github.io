@@ -11,9 +11,12 @@ authors:
 - "Keisuke Nakagawa"
 - me
 - "Kota Okadera"
+- "Hiromichi Mitake"
+- "Teruo Fujii"
+- "Makoto Sugiyama"
 date: "2013-01-01T00:00:00Z"
 publication_types: ["article-journal"]
-publication: "*Journal of virology*, 87(22), 12327–12338"
+publication: "*Journal of Virology*, 87(22), 12327–12338"
 abstract: ""
 tags:
 - Rabies Virus

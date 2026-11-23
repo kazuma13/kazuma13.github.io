@@ -9,7 +9,7 @@ authors:
 - "Toby Bell"
 - "Donna Whelan"
 - "Alamgir Hossain"
-- "Patrick Shillling"
+- "Patrick Shilling"
 - me
 date: "2014-01-01T00:00:00Z"
 publication_types: ["article-journal"]

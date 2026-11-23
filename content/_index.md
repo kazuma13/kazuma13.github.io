@@ -42,13 +42,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research centers on understanding **why viruses cause disease**. I am particularly interested in human rhinovirus (HRV), one of the most common human pathogens yet considered to cause only mild illness. By studying how and why HRV rarely leads to severe disease, I aim to uncover fundamental principles of viral pathogenesis — essentially asking, *what keeps most infections mild?*
+        My research centers on understanding **the molecular and evolutionary principles that govern viral pathogenesis and disease severity** across RNA viruses.
 
-        To address this question, I am developing recombinant reporter viruses and leveraging *in vivo* models including mice and organoids. These tools will enable us to dissect the molecular mechanisms underlying viral replication and pathogenicity at an unprecedented resolution.
+        Currently, in the **Raul Andino Lab at UCSF**, I investigate **poliovirus molecular biology** and RNA virus replication and evolution, focusing on the rational design and genetic stabilization of **next-generation live-attenuated vaccine strains**.
 
-        Looking ahead, I aim to apply these tools to analyze circulating strains in collaboration with public health laboratories, and ultimately to contribute to the discovery and development of anti-rhinovirus therapeutics. I am also broadly interested in enterovirus RNA biology, mutational dynamics, and the evolutionary forces shaping viral pathogenesis.
+        Previously at CiDER, Osaka University, I established a versatile and genetically stable **fluorescent reporter platform for human rhinovirus (HRV) and other enteroviruses** by combining viral protease cleavage-site optimization, GC-content tuning, and *cis*-acting replication element (CRE) engineering. Pairing these reporter viruses with human iPSC-derived airway epithelial organoids and *in vivo* models enables real-time tracking of viral spread alongside mucosal innate immune responses, helping dissect why common respiratory viruses usually cause mild illness yet occasionally trigger severe respiratory or non-respiratory disease.
 
-        I have extensive experience in *in vivo* virology, including virus inoculation via multiple routes, precision dissection of tissues such as the sciatic nerve, and quantitative analysis of viral dynamics across organs.
+        Trained as a veterinarian and virologist (DVM, PhD), I also bring extensive experience in **BSL-2/3 infectious disease models**, rabies virus neuroinvasiveness, precision microsurgery (including sciatic nerve isolation and perfusion fixation), and public health genomic surveillance.
 
     design:
       columns: '1'

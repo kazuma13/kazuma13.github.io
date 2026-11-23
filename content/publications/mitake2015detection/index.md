@@ -11,6 +11,7 @@ authors:
 - "Kasumi Kasahara"
 - "Toshihide Nihongi"
 - "Hiroshi Tsunemitsu"
+- "Makoto Sugiyama"
 date: "2015-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "*Journal of Veterinary Medical Science*, 77(2), 221–224"

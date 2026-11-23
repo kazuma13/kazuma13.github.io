@@ -11,9 +11,10 @@ authors:
 - "Hervé Bourhy"
 - "David Andrew Jans"
 - "Naoto Ito"
+- "Gregory William Moseley"
 date: "2014-01-01T00:00:00Z"
 publication_types: ["article-journal"]
-publication: "*The Journal of infectious diseases*, 209(11), 1744–1753"
+publication: "*The Journal of Infectious Diseases*, 209(11), 1744–1753"
 abstract: ""
 tags:
 - Rabies Virus

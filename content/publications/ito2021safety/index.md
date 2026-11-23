@@ -11,6 +11,11 @@ authors:
 - "Supasiri Jarusombuti"
 - me
 - "Kento Nakagawa"
+- "Yuji Fujii"
+- "Shoko Nishiyama"
+- "Tatsunori Masatani"
+- "Hirofumi Sawa"
+- "Makoto Sugiyama"
 date: "2021-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "*Vaccine*, 39(28), 3777–3784"

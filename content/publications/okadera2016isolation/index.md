@@ -17,4 +17,8 @@ abstract: ""
 tags:
 - Rotavirus
 featured: false
+links:
+  - icon: academicons/pubmed
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/26902884/
 ---

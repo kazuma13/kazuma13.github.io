@@ -11,6 +11,10 @@ authors:
 - "Satoko Yamaoka"
 - "Yasuhiro Takashima"
 - "Tatsunori Masatani"
+- "Kota Okadera"
+- "Naoto Ito"
+- "Tetsuya Mizutani"
+- "Makoto Sugiyama"
 date: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "*Vaccine*, 35(42), 5622–5628"

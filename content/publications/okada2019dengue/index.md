@@ -12,7 +12,7 @@ authors:
 - "Seiji P Yamamoto"
 date: "2019-01-01T00:00:00Z"
 publication_types: ["article-journal"]
-publication: "*Emerging infectious diseases*, 25(9), 1782"
+publication: "*Emerging Infectious Diseases*, 25(9), 1782–1784"
 abstract: ""
 tags:
 - Dengue

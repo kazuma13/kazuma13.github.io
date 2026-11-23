@@ -13,9 +13,13 @@ authors:
 - "Makoto Sugiyama"
 date: "2016-01-01T00:00:00Z"
 publication_types: ["article-journal"]
-publication: "*Genome Announcements*, 4(1), 10–1128"
+publication: "*Genome Announcements*, 4(1), e01565–15"
 abstract: ""
 tags:
 - Rotavirus
 featured: false
+links:
+  - icon: academicons/pubmed
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/26769943/
 ---

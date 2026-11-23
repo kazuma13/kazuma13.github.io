@@ -11,6 +11,9 @@ authors:
 - "Kentaro Uemura"
 - "Ming Te Yeh"
 - "Chikako Ono"
+- "Shuhei Taguwa"
+- "Masamichi Muramatsu"
+- "Yoshiharu Matsuura"
 date: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "*Journal of Virology*, 98(7), e00813–24"

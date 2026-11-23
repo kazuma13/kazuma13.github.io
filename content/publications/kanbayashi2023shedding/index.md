@@ -11,6 +11,15 @@ authors:
 - me
 - "Yuko Kaida"
 - "Ryo Ikemori"
+- "Takahiro Yumisashi"
+- "Atami Ito"
+- "Takeshi Saito"
+- "Yoshihiko Yamaji"
+- "Yuka Nishino"
+- "Ryosuke Omori"
+- "Haruyo Mori"
+- "Kazushi Motomura"
+- "Kazuyoshi Ikuta"
 date: "2023-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "*Journal of Clinical Virology*, 160, 105377"
