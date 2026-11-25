@@ -1,25 +1,24 @@
 {{- define "main" -}}
 <style>
-  /* Full-page seamless Lavender Mesh + Trail Topographic Contours (Light Mode) */
+  /* Full-page seamless Lavender Mesh + Authentic GSI-style Topographic Contours (Light Mode) */
   body.page-wrapper {
-    background-color: #f5f4fc !important;
+    background-color: #f6f5fc !important;
     background-image:
-      radial-gradient(at 22% 16%, rgba(99, 102, 241, 0.16) 0px, transparent 52%),
-      radial-gradient(at 80% 78%, rgba(168, 85, 247, 0.14) 0px, transparent 54%),
-      radial-gradient(at 50% 45%, rgba(224, 231, 255, 0.45) 0px, transparent 65%),
-      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='420' height='420' viewBox='0 0 420 420'%3E%3Cg fill='none' stroke='%235b5bd6' stroke-linecap='round'%3E%3Cpath stroke-width='1.25' stroke-opacity='0.14' d='M0 58 C70 22 140 96 210 62 C280 28 350 94 420 58'/%3E%3Cpath stroke-width='0.9' stroke-opacity='0.095' d='M0 88 C70 52 145 128 215 92 C285 56 350 124 420 88'/%3E%3Cpath stroke-width='0.9' stroke-opacity='0.095' d='M0 120 C75 88 150 160 220 124 C290 88 345 152 420 120'/%3E%3Cpath stroke-width='0.9' stroke-opacity='0.095' d='M0 156 C65 130 145 196 220 160 C295 124 355 182 420 156'/%3E%3Cpath stroke-width='1.25' stroke-opacity='0.14' d='M0 196 C70 172 145 236 220 198 C295 160 350 220 420 196'/%3E%3Cpath stroke-width='0.9' stroke-opacity='0.095' d='M0 236 C75 214 140 274 215 240 C290 206 345 258 420 236'/%3E%3Cpath stroke-width='0.9' stroke-opacity='0.095' d='M0 278 C68 250 140 314 215 280 C290 246 352 306 420 278'/%3E%3Cpath stroke-width='1.25' stroke-opacity='0.14' d='M0 322 C72 292 148 356 222 320 C296 284 348 352 420 322'/%3E%3Cpath stroke-width='0.9' stroke-opacity='0.095' d='M0 364 C70 336 146 396 218 364 C290 332 350 392 420 364'/%3E%3Cpath stroke-width='0.9' stroke-opacity='0.095' d='M0 402 C70 372 145 430 215 398 C285 366 350 432 420 402'/%3E%3Cpath stroke-width='1.2' stroke-opacity='0.13' d='M292 86 C322 72 358 84 364 106 C370 128 340 144 306 138 C272 132 262 100 292 86 Z'/%3E%3Cpath stroke-width='0.9' stroke-opacity='0.1' d='M304 98 C322 90 344 96 347 109 C350 122 332 130 312 126 C292 122 286 106 304 98 Z'/%3E%3Cpath stroke-width='1.2' stroke-opacity='0.13' d='M92 266 C128 250 168 264 174 288 C180 312 144 330 106 322 C68 314 56 282 92 266 Z'/%3E%3Cpath stroke-width='0.9' stroke-opacity='0.1' d='M108 280 C128 272 150 280 153 292 C156 304 136 314 116 309 C96 304 88 288 108 280 Z'/%3E%3C/g%3E%3C/svg%3E") !important;
-    background-size: 100% 100%, 100% 100%, 100% 100%, 420px 420px !important;
+      radial-gradient(at 22% 16%, rgba(99, 102, 241, 0.12) 0px, transparent 52%),
+      radial-gradient(at 80% 78%, rgba(168, 85, 247, 0.11) 0px, transparent 54%),
+      url("{{ "images/topo-light.svg" | relURL }}") !important;
+    background-size: 100% 100%, 100% 100%, 960px 960px !important;
     background-attachment: scroll !important;
   }
 
-  /* Dark Room + Green Ambient Glow + Night-Vision Contours (Dark Mode) */
+  /* Dark Room + Green Ambient Glow + Night-Vision Topographic Contours (Dark Mode) */
   html.dark body.page-wrapper,
   body.page-wrapper.dark {
     background-color: #060b08 !important;
     background-image:
-      radial-gradient(ellipse at 50% 42%, rgba(51, 255, 102, 0.13) 0%, rgba(16, 48, 30, 0.26) 38%, rgba(6, 11, 8, 0.92) 76%),
-      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='420' height='420' viewBox='0 0 420 420'%3E%3Cg fill='none' stroke='%2333ff66' stroke-linecap='round'%3E%3Cpath stroke-width='1.2' stroke-opacity='0.075' d='M0 58 C70 22 140 96 210 62 C280 28 350 94 420 58'/%3E%3Cpath stroke-width='0.85' stroke-opacity='0.048' d='M0 88 C70 52 145 128 215 92 C285 56 350 124 420 88'/%3E%3Cpath stroke-width='0.85' stroke-opacity='0.048' d='M0 120 C75 88 150 160 220 124 C290 88 345 152 420 120'/%3E%3Cpath stroke-width='0.85' stroke-opacity='0.048' d='M0 156 C65 130 145 196 220 160 C295 124 355 182 420 156'/%3E%3Cpath stroke-width='1.2' stroke-opacity='0.075' d='M0 196 C70 172 145 236 220 198 C295 160 350 220 420 196'/%3E%3Cpath stroke-width='0.85' stroke-opacity='0.048' d='M0 236 C75 214 140 274 215 240 C290 206 345 258 420 236'/%3E%3Cpath stroke-width='0.85' stroke-opacity='0.048' d='M0 278 C68 250 140 314 215 280 C290 246 352 306 420 278'/%3E%3Cpath stroke-width='1.2' stroke-opacity='0.075' d='M0 322 C72 292 148 356 222 320 C296 284 348 352 420 322'/%3E%3Cpath stroke-width='0.85' stroke-opacity='0.048' d='M0 364 C70 336 146 396 218 364 C290 332 350 392 420 364'/%3E%3Cpath stroke-width='0.85' stroke-opacity='0.048' d='M0 402 C70 372 145 430 215 398 C285 366 350 432 420 402'/%3E%3Cpath stroke-width='1.15' stroke-opacity='0.07' d='M292 86 C322 72 358 84 364 106 C370 128 340 144 306 138 C272 132 262 100 292 86 Z'/%3E%3Cpath stroke-width='0.85' stroke-opacity='0.05' d='M304 98 C322 90 344 96 347 109 C350 122 332 130 312 126 C292 122 286 106 304 98 Z'/%3E%3Cpath stroke-width='1.15' stroke-opacity='0.07' d='M92 266 C128 250 168 264 174 288 C180 312 144 330 106 322 C68 314 56 282 92 266 Z'/%3E%3Cpath stroke-width='0.85' stroke-opacity='0.05' d='M108 280 C128 272 150 280 153 292 C156 304 136 314 116 309 C96 304 88 288 108 280 Z'/%3E%3C/g%3E%3C/svg%3E") !important;
-    background-size: 100% 100%, 420px 420px !important;
+      radial-gradient(ellipse at 50% 42%, rgba(51, 255, 102, 0.13) 0%, rgba(16, 48, 30, 0.25) 38%, rgba(6, 11, 8, 0.90) 76%),
+      url("{{ "images/topo-dark.svg" | relURL }}") !important;
+    background-size: 100% 100%, 960px 960px !important;
   }
 
   .crt-wrap {
